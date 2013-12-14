@@ -1,0 +1,21 @@
+# Compiled source #
+###################
+*.dll
+*.mdb
+*.exe
+
+# OS generated files #
+######################
+.DS_Store
+
+# Visual Studio files #
+######################
+[Oo]bj/
+[Bb]in
+[Dd]ebug*/
+[Rr]elease*/
+*.log
+
+# Xamarin files #
+######################
+*.userprefs
